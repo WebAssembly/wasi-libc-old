@@ -17,7 +17,7 @@ typedef long long blksize_t;
 typedef long long off_t;
 
 /* This is defined to be the same size as size_t. */
-typedef long ssize_t;
+typedef long long ssize_t;
 
 /* Define this to be 64-bit as its main use is in struct timeval where the
    extra space would otherwise be padding. */
