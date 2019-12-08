@@ -1,0 +1,3 @@
+set(WASI 1)
+set(UNIX 1)
+set(CMAKE_STATIC_LIBRARY_PREFIX)
